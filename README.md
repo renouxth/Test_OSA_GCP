@@ -1,2 +1,2 @@
 # Test_OSA_GCP
-Bla Bla Bla
+Juste les 2 fichiers pour générer les précos et le script
